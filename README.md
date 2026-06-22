@@ -1,44 +1,39 @@
-# vCard - Personal portfolio
+# xhyv
 
-![GitHub repo size](https://img.shields.io/github/repo-size/codewithsadee/vcard-personal-portfolio)
-![GitHub stars](https://img.shields.io/github/stars/codewithsadee/vcard-personal-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/codewithsadee/vcard-personal-portfolio?style=social)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/SoxmIlgf2zM?style=social)](https://youtu.be/SoxmIlgf2zM)
+> student · pentester · builder
 
-vCard is a fully responsive personal portfolio website, responsive for all devices, built using HTML, CSS, and JavaScript.
+---
 
-## Demo
+**into** cybersecurity, osint, low-level programming, and game stuff.  
+**playing** Rocket League (champ) · Fortnite/Unreal · Minecraft · Roblox (`4x08x`)  
+**offline** mountain biking
 
-![vCard Desktop Demo](./website-demo-image/desktop.png "Desktop Demo")
-![vCard Mobile Demo](./website-demo-image/mobile.png "Mobile Demo")
+---
 
-## Prerequisites
+### stack
 
-Before you begin, ensure you have met the following requirements:
+`C` `C++` `C#` `Python` `Rust` `PHP` `Batch` `HTML` `CSS`
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+---
 
-## Installing vCard
+### focus areas
 
-To install **vCard**, follow these steps:
+- penetration testing & exploit dev
+- aimbot / game tooling (Unreal Engine)
+- osint & recon
+- discord bots & tooling → [dsc.gg/uclaim](https://dsc.gg/uclaim)
 
-Linux and macOS:
+---
 
-```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+### links
 
-Windows:
+| platform | |
+|---|---|
+| guns.lol | [guns.lol/0jxt](https://guns.lol/0jxt) |
+| tiktok | [@.zy4x](https://tiktok.com/@.zy4x) · [@5xww](https://tiktok.com/@5xww) |
+| youtube | [@lxuh](https://youtube.com/@lxuh) |
+| discord | [dsc.gg/uclaim](https://dsc.gg/uclaim) |
 
-```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
-```
+---
 
-## Contact
-
-If you want to contact me you can reach me at [Twitter](https://www.x.com/codewithsadee_).
-
-## License
-
-MIT
+<sub>i write code that probably shouldn't exist</sub>
