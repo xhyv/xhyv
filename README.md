@@ -21,7 +21,7 @@
 - penetration testing & exploit dev
 - aimbot / game tooling (Unreal Engine)
 - osint & recon
-- discord bots & tooling → [dsc.gg/uclaim](https://dsc.gg/uclaim)
+- usernames → [dsc.gg/uclaim](https://dsc.gg/uclaim)
 
 ---
 
