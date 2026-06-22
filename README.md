@@ -49,11 +49,11 @@
 
 ### 💜 discord accounts
 
-[![](https://img.shields.io/badge/account%201-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/1346730695296417874)
-[![](https://img.shields.io/badge/account%202-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/1509586785900953873)
-[![](https://img.shields.io/badge/account%203-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/1510643831157297212)
-[![](https://img.shields.io/badge/account%204-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/1508859777462173816)
-[![](https://img.shields.io/badge/account%205-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/1510650460271280269)
+[![](https://img.shields.io/badge/0jtg-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/1346730695296417874)
+[![](https://img.shields.io/badge/nk1c-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/1509586785900953873)
+[![](https://img.shields.io/badge/x0ko-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/1510643831157297212)
+[![](https://img.shields.io/badge/84m0-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/1508859777462173816)
+[![](https://img.shields.io/badge/0jxt-5865F2?style=flat-square&logo=discord&logoColor=white)](https://www.discordapp.com/users/1510650460271280269)
 
 ---
 
